@@ -1,0 +1,16 @@
+[
+  {
+    "name": "示例管理",
+    "children": [
+      {
+        "name": "示例",
+        "path": "/demo",
+        "children": [{
+            "name": "form",
+            "path": "/demo/form"
+        }]
+      }
+    ]
+  }
+
+]
